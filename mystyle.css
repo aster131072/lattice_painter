@@ -1,0 +1,21 @@
+p{
+text-align:center;
+
+}
+table{
+border-collapse:collapse;
+}
+
+td{
+border:1px solid black;
+padding:10px;
+user-select:none;
+}
+.square {
+border:1px solid black;
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  margin: 2px;
+  cursor: pointer;
+}
